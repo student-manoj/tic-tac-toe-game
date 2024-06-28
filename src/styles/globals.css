@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ------------- */
+
+.bn62 {
+  color: #1cc49d;
+  background-color: #1b2f31;
+  border-radius: 5px;
+
+  height: 290px;
+  width: 290px;
+  font-size: large;
+  font-weight: 600;
+}
+
+/* ------------- */
+.containere {
+  max-width: 1100px;
+  padding-left: 40px;
+  padding-right: 40px;
+  margin: auto;
+}
+/* ------------- */
